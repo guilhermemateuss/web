@@ -88,3 +88,7 @@ body {
 .secundario__botao {
      display: inline-block; 
     }
+
+    .container__descricao { 
+        padding: 2em;
+     }
